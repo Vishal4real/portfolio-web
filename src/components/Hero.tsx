@@ -2,6 +2,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Braces } from "lucide-react";
+import Link from "next/link";
 import CodeTerminal from "./CodeTerminal";
 import { HoverBorderGradientDemo } from "./HoverBorderGradientButton";
 
