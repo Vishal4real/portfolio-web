@@ -70,8 +70,14 @@ function Hero() {
               </p>
             </motion.div>
             <div className="h-fit w-fit text-base sm:text-lg">
-              <HoverBorderGradientDemo ButtonName="Take a look yourself" />
-            </div>
+      <Link
+        href="https://drive.google.com/file/d/1G1S1bDKfKNiDQWLn9GKLv6SqdSbD3NO2/view?usp=sharing"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <HoverBorderGradientDemo ButtonName="Take a look yourself" />
+      </Link>
+    </div>
           </motion.div>
 
           {/* Right column - Terminal */}
