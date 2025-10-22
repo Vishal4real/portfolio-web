@@ -72,7 +72,7 @@ function Hero() {
             </motion.div>
             <div className="h-fit w-fit text-base sm:text-lg">
       <Link
-        href="https://drive.google.com/file/d/1G1S1bDKfKNiDQWLn9GKLv6SqdSbD3NO2/view?usp=sharing"
+        href="https://drive.google.com/file/d/1tIFHQwipB0qTIK1MZ8msi3upRTpV2-i_/view?usp=drive_link"
         target="_blank"
         rel="noopener noreferrer"
       >
